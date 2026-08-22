@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TCK0423&label=Profile%20views&color=0e75b6&style=flat" alt="TCK0423" /> </p>
 
-- 🌱 I'm currently learning **C++、C#、JavaScript、Python、Linux、CyberSecurity**
+- 🌱 I'm currently learning **C++、C#、JavaScript、Python、Bash、CyberSecurity**
 
 - 📝 I regularly write articles on **[https://tck-blog.pages.dev/](https://tck-blog.pages.dev/)**
 
