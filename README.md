@@ -14,9 +14,7 @@
 <a href="https://leetcode.com/TCK0423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="TCK0423" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<h4 align="left">Languages:</h4>
+<h3 align="left">Languages:</h3>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40"/>
@@ -25,17 +23,24 @@
 <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/>
 </p>
 
-<h4 align="left">Frameworks:</h4>
+<h3 align="left">Frameworks:</h3>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="40" height="40"/>
 </p>
 
-<h4 align="left">Others:</h4>
+<h3 align="left">Tools:</h3>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="40" height="40"/>
+</p>
+
+<h3 align="left">Systems:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
 </p>
 
