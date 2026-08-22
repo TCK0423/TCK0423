@@ -17,6 +17,7 @@
 <h3 align="left">Systems:</h3>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" width="40" height="40"/>
 </p>
 
