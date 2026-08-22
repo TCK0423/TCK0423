@@ -19,6 +19,7 @@
 <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="40" height="40"/>
 </p>
 
 <h3 align="left">Languages:</h3>
@@ -32,6 +33,7 @@
 
 <h3 align="left">Frameworks:</h3>
 <p align="left">
+<img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="40" height="40"/>
 </p>
 
@@ -39,6 +41,8 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="40" height="40"/>
