@@ -51,4 +51,3 @@
 
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TCK0423" alt="TCK0423" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=TCK0423" alt="TCK0423" /></p>
