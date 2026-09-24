@@ -1,4 +1,4 @@
-# Hi 👋, I'm TCK
+# Hi, I'm TCK
 
 ### A student.
 
@@ -34,7 +34,6 @@
 <h3 align="left">Frameworks:</h3>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="40" height="40"/>
 </p>
 
 <h3 align="left">Tools:</h3>
