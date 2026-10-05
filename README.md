@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning **C++、C#、JavaScript、Python、Bash、CyberSecurity**
 
-- 📝 I regularly write articles on **[https://tck-blog.pages.dev/](https://tck-blog.pages.dev/)**
+- 📝 I write articles on **[https://tck-blog.pages.dev/](https://tck-blog.pages.dev/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
